@@ -1,0 +1,13 @@
+.header a{
+    text-decoration: none;
+    margin: 20px;
+    padding: 10px;
+    
+}
+.header a:hover{
+    color: aqua;
+}
+.active{
+    background-color: blue;
+    border-radius: 15px;
+}
